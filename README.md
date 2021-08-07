@@ -6,7 +6,7 @@ This project is an simple example of JWT authentication. Once an user registers 
 - Node JS
 - Express JS
 - Express validator
-- Bcrypt ^5.0.1,
+- Bcrypt ^5.0.1
 - dotenv
 - Jsonwebtoken ^8.5.1
 
